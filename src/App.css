@@ -1,0 +1,19 @@
+.Login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 500px;
+  gap: 20px;
+  
+}
+.Image{
+  background-image: url(images.jpg);
+  background-repeat: repeat;
+  opacity: 0.8;
+  width: 100vh;
+  height: 100vh;
+  position: sticky;
+  z-index: -1;
+}
